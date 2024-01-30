@@ -2,6 +2,9 @@
 
 This repository contains the code for a data streaming application that utilizes Prefect for workflow orchestration. The project is structured to stream data from an API to Kafka (using `Ingestion.py`) and then from Kafka to MongoDB (using `Pipeline.py`).
 
+## Pipeline
+![Data Streaming Pipeline](pipeline.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
