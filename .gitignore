@@ -1,2 +1,4 @@
 dockerfile
 *.yml
+.dockerignore
+compose.yaml
